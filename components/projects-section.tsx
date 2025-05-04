@@ -44,7 +44,7 @@ export default function ProjectsSection() {
         "Website portofolio personal dengan animasi dan desain responsif. Dibangun dengan Next.js dan Tailwind CSS.",
       image: "/porto.png",
       technologies: ["Next.js", "Tailwind CSS", "ReactJS", "TypeScript"],
-      demoUrl: "christopher-aldo.vercel.app",
+      demoUrl: "#",
       githubUrl: "#",
     },
     {

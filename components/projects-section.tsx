@@ -51,7 +51,7 @@ export default function ProjectsSection() {
       id: 4,
       title: "E Commerce Website",
       description:
-        "Platform blog dengan sistem manajemen konten, komentar, dan pencarian. Dibangun dengan Laravel dan MySQL.",
+        "E Commerce dengan sistem manajemen konten, komentar, dan pencarian. Dibangun dengan Laravel dan MySQL.",
       image: "/projectJam.png",
       technologies: ["Laravel", "MySQL", "Tailwind CSS"],
       demoUrl: "https://github.com/ChristopherAldoNatanael/Laravel-TokoOnline",

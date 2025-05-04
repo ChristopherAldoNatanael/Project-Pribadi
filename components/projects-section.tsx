@@ -24,7 +24,7 @@ export default function ProjectsSection() {
         "Platform e-commerce lengkap dengan sistem pembayaran, keranjang belanja, dan panel admin. Dibangun dengan Laravel, MySQL, dan Bootstrap.",
       image: "/project1.png",
       technologies: ["Laravel", "MySQL", "Bootstrap", "JavaScript"],
-      demoUrl: "https://example.com/ecommerce",
+      demoUrl: "https://github.com/ChristopherAldoNatanael/Belajar-Laravel",
       githubUrl: "https://github.com/ChristopherAldoNatanael/Belajar-Laravel",
     },
     {
@@ -44,8 +44,8 @@ export default function ProjectsSection() {
         "Website portofolio personal dengan animasi dan desain responsif. Dibangun dengan Next.js dan Tailwind CSS.",
       image: "/porto.png",
       technologies: ["Next.js", "Tailwind CSS", "ReactJS", "TypeScript"],
-      demoUrl: "https://example.com/portfolio",
-      githubUrl: "https://github.com/ChristopherAldoNatanael/portfolio",
+      demoUrl: "christopher-aldo.vercel.app",
+      githubUrl: "#",
     },
     {
       id: 4,
@@ -54,8 +54,8 @@ export default function ProjectsSection() {
         "Platform blog dengan sistem manajemen konten, komentar, dan pencarian. Dibangun dengan Laravel dan MySQL.",
       image: "/projectJam.png",
       technologies: ["Laravel", "MySQL", "Tailwind CSS"],
-      demoUrl: "https://example.com/blog",
-      githubUrl: "https://github.com/ChristopherAldoNatanael/blog",
+      demoUrl: "https://github.com/ChristopherAldoNatanael/Laravel-TokoOnline",
+      githubUrl: "https://github.com/ChristopherAldoNatanael/Laravel-TokoOnline",
     },
   ]
 

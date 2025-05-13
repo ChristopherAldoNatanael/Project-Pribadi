@@ -23,14 +23,14 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <head>
         <meta name="format-detection" content="telephone=no, date=no, email=no, address=no" />
-      </head>
-      <body className={inter.className}>
         <Script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3314275526084227"
           crossOrigin="anonymous"
           strategy="afterInteractive"
         />
+      </head>
+      <body className={inter.className}>
         <ThemeProvider attribute="class" defaultTheme="dark" enableSystem disableTransitionOnChange>
           {children}
         </ThemeProvider>
